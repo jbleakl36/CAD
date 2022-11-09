@@ -94,3 +94,35 @@ https://cvilleschools.onshape.com/documents/c21ea5d854d718a86e6eb309/w/f28e1c984
 ### Reflection
 Learning the branch function was difficult. At first I was just fumbiling around. But then I decided to closely follow the instructions of the page.
 I learned how to do it after some trial and error.
+
+### Onshape Assembilies
+
+### Description & Reflection
+We were required to take a multi part course all about Onshape assembilies.
+
+### 01. CREATING AN ASSEMBLY
+Overall this section talked about starting an assembly and moving a part to the origin.
+It was straightforward and to the point.
+
+### 02. MATING ASSEMBLY COMPONENTS
+This section explained the many Mates there are in the Onshape world giving me a bigger understanding
+on how all the mates work.
+### 03. WORKING WITH AN ASSEMBLY
+This section explains the complecated interworkings of mechanics that will greatly improve your efficentcy
+and knowledge in Onshape. This includes: Isolation, Hiding Mates, Assembily Folders, etc.
+### 04. COMPLETION CERTIFICATE :)
+
+![Screenshot 2022-11-09 153735](https://user-images.githubusercontent.com/112979207/200937538-6f5c48f8-9909-442d-b260-42e3bb702e2e.png)
+
+### Exercise: Basic Assembly
+![Screenshot 2022-11-09 155339](https://user-images.githubusercontent.com/112979207/200939536-fd8f0b00-4f78-4dc5-b510-5c627c981cb4.png)
+
+https://cvilleschools.onshape.com/documents/03d9d59a36f9be21b25f130d/w/94363775d7713d412abcffdd/e/bc0cf045e52efefa752b615f
+### Exercise: Creating Mate Connectors
+![Screenshot 2022-11-09 155222](https://user-images.githubusercontent.com/112979207/200939316-9d94248d-4c30-4271-8e26-ce3373be2697.png)
+
+https://cvilleschools.onshape.com/documents/48e8167b868ffb0ba165b043/w/4684ba28984caba06d52491f/e/3eb3bdb4163921850d0884f8
+### Exercise: Intermediate Assembly
+![Screenshot 2022-11-09 155041](https://user-images.githubusercontent.com/112979207/200939098-b5504bac-d73b-404b-b99c-c948bee26940.png)
+
+https://cvilleschools.onshape.com/documents/29dbd51d5673a875b565b9e9/w/2064ca9f7185b14e72cd6deb/e/6799281a21266e574f00ae7b
