@@ -126,3 +126,6 @@ https://cvilleschools.onshape.com/documents/48e8167b868ffb0ba165b043/w/4684ba289
 ![Screenshot 2022-11-09 155041](https://user-images.githubusercontent.com/112979207/200939098-b5504bac-d73b-404b-b99c-c948bee26940.png)
 
 https://cvilleschools.onshape.com/documents/29dbd51d5673a875b565b9e9/w/2064ca9f7185b14e72cd6deb/e/6799281a21266e574f00ae7b
+
+### Reflection
+Overall it was fun to put these pieces together to create the final assembly. The most important part of doing this type of assingment is that you should always make sure you properly connect each piece (double check it!).
