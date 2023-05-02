@@ -129,3 +129,14 @@ https://cvilleschools.onshape.com/documents/29dbd51d5673a875b565b9e9/w/2064ca9f7
 
 ### Reflection
 Overall it was fun to put these pieces together to create the final assembly. The most important part of doing this type of assingment is that you should always make sure you properly connect each piece (double check it!).
+
+### Onshape Certification
+
+### Description
+This is a test that spans multiple different problems relating to Onshape.
+
+### Evidence/Image
+[joshua-bleakley-dbb9e1b2-3a06-434a-9cf2-45676b8ed18b-certificate.pdf](https://github.com/jbleakl36/CAD/files/11376585/joshua-bleakley-dbb9e1b2-3a06-434a-9cf2-45676b8ed18b-certificate.pdf)
+### Reflection
+This test, if you do the practice and really attempt to understand it, can be relatively smooth. I'm quite pleased to say that I am Onshape certified. As long as
+you do the practice there isn't much stopping you from success.
